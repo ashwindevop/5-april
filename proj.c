@@ -1,6 +1,6 @@
 main()
 {
-  int a,b,c,d;
+  int a,b,c,d,e;
   clrscr();
 
   a=10;
@@ -10,6 +10,7 @@ main()
   
   c=a+b;
   d=a-b;
+  e=a*b;
 
 getch();
 }
