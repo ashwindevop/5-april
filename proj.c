@@ -13,5 +13,6 @@ main()
   e=a*b;
   f=a/b;
 
+  print("add = %d",add);
 getch();
 }
