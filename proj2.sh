@@ -2,3 +2,5 @@
 ls
 who
 pwd
+
+useradd ashwin
